@@ -18,7 +18,7 @@ package kafka
  * limitations under the License.
  */
 
-import "github.com/confluentinc/confluent-kafka-go-dev/kafka/librdkafka"
+import "github.com/confluentinc/confluent-kafka-go/kafka/librdkafka"
 
 // Use something from the librdkafka package to avoid unused-errors.
 // See librdkafka/00librdkafka.go for more information.
